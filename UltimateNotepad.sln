@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateNotepad", "UltimateNotepad.csproj", "{D285986F-934D-45BC-B36C-80C910C2C9EE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "UCN2014", "..\UCN2014\UCN2014.vdproj", "{8A117BE9-A67A-4D25-85F2-C9352540C2A9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "UC2014", "..\UC2014\UC2014.vdproj", "{49CBE083-BAF2-48B2-B78B-AE59D28FD772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D285986F-934D-45BC-B36C-80C910C2C9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D285986F-934D-45BC-B36C-80C910C2C9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D285986F-934D-45BC-B36C-80C910C2C9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D285986F-934D-45BC-B36C-80C910C2C9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A117BE9-A67A-4D25-85F2-C9352540C2A9}.Debug|Any CPU.ActiveCfg = Debug
+		{8A117BE9-A67A-4D25-85F2-C9352540C2A9}.Release|Any CPU.ActiveCfg = Release
+		{49CBE083-BAF2-48B2-B78B-AE59D28FD772}.Debug|Any CPU.ActiveCfg = Debug
+		{49CBE083-BAF2-48B2-B78B-AE59D28FD772}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
